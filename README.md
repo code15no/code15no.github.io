@@ -66,7 +66,7 @@
 <!-- 顶部：左头像 + 右个人信息 -->
 <div class="header-container">
     <!-- 头像：替换src为你的头像路径（本地/网络都可） -->
-    <img src="https://example.com/your-avatar.jpg" alt="个人头像" class="avatar">
+    <img src="./images/photo.jpg" alt="个人头像" class="avatar">
     
     <!-- 个人信息 -->
     <div class="info-container">
